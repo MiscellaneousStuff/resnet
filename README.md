@@ -28,3 +28,4 @@ Re-implementation of ResNet.
 - [x] CIFAR-10 (83.94%)
 - [x] Tiny ImageNet
    - [x] Initial Results (ResNet18(51% acc))
+      This seems to match [other](https://github.com/sonugiri1043/Train_ResNet_On_Tiny_ImageNet) results.
