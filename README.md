@@ -27,3 +27,5 @@ Re-implementation of ResNet.
 - [x] MNIST (~98%)
 - [x] CIFAR-10 (83.94%)
 - [ ] Tiny ImageNet
+   - [x] Initial Results (ResNet18(49.65% acc))
+   - [ ] 
