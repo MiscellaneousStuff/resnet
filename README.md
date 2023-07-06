@@ -21,9 +21,9 @@ Re-implementation of ResNet.
 
 ## TODO
 
-- [ ] ResNet
-   - [ ] Model
-   - [ ] Train Code
-- [ ] MNIST
-- [ ] CIFAR-10
+- [x] ResNet
+   - [x] Model
+   - [x] Train Code
+- [x] MNIST (~98%)
+- [x] CIFAR-10 (83.94%)
 - [ ] Tiny ImageNet
