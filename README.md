@@ -7,7 +7,7 @@ Re-implementation of ResNet.
 
 ## Method
 
-### Paper Details
+### Paper Details (For ImageNet)
 
 - Image scaled to 224x224 crop (same as AlexNet).
   Per-pixel mean subtracted.
@@ -26,6 +26,5 @@ Re-implementation of ResNet.
    - [x] Train Code
 - [x] MNIST (~98%)
 - [x] CIFAR-10 (83.94%)
-- [ ] Tiny ImageNet
-   - [x] Initial Results (ResNet18(49.65% acc))
-   - [ ] 
+- [x] Tiny ImageNet
+   - [x] Initial Results (ResNet18(51% acc))
